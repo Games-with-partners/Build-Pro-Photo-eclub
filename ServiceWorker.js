@@ -2,7 +2,7 @@ const cacheName = "BeaverGames-ProPhoto-0.1";
 const contentToCache = [
     "Build/66a244246fd6e1beb214d5dc8cde6ffa.loader.js",
     "Build/b927831c36264cf44d206e71a175b31f.framework.js",
-    "Build/8199e52b6049f7278f4009cdc766eb14.data",
+    "Build/1615ad44e1b281568d8d4426f00bfaaf.data",
     "Build/aabcf05f92277f20e100366fec99344a.wasm",
     "TemplateData/style.css"
 
